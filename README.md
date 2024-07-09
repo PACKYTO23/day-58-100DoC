@@ -5,3 +5,4 @@ Day 58 - Web Foundation Bootstrap
 
 Specific (and short) notes and titles written in main.py.
   Unfinished practice (08/07/2024); update tomorrow.
+    Finished practice (09/07/2024): updated.
